@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492196288552",
+    "project_id": "e-commerce-exam",
+    "storage_bucket": "e-commerce-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492196288552:android:6662d749f95923cc83bd1d",
+        "android_client_info": {
+          "package_name": "com.example.contactDiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaObJT0Rc1E_5Q3swiTum8-UwoQvnfqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
